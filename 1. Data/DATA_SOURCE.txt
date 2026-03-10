@@ -1,0 +1,15 @@
+Dataset source:
+Market Segmentation in Insurance Unsupervised
+
+Kaggle link:
+https://www.kaggle.com/datasets/jillanisofttech/market-segmentation-in-insurance-unsupervised
+
+Instructions:
+Download the dataset from the link above and place the file as:
+
+Customer Data.csv
+
+Place the file inside the folder: 1. Data/
+
+Note:
+The dataset is not distributed in this repository.
